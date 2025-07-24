@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-> melodious-capybara-5ef755.netlify.app
+ melodious-capybara-5ef755.netlify.app
 
 ---
 
