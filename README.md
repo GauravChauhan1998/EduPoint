@@ -4,8 +4,7 @@
 
 ## 🌐 Live Demo
 
-[Link Text](melodious-capybara-5ef755.netlify.app)
-
+[Visit EduPoint](melodious-capybara-5ef755.netlify.app)
 
 ---
 
