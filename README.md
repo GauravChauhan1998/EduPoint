@@ -2,9 +2,8 @@
 
 **EduPoint** is a modern, responsive, and clean landing page designed for EdTech companies and educational platforms. Built with pure **HTML** and **CSS**, it focuses on delivering a visually appealing user interface with smooth animations and an intuitive layout.
 
-## 🌐 Live Demo
-
-[Visit EduPoint](melodious-capybara-5ef755.netlify.app)
+## 🔗 Link
+- [melodious-capybara-5ef755.netlify.app](https://melodious-capybara-5ef755.netlify.app/)
 
 ---
 
